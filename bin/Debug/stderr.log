@@ -1,0 +1,14 @@
+2021-11-06 01:21:05.911 GUI-Calculator[9085:486853] 
+Unhandled Exception:
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at GUICalculator.Solver.Solve () [0x0024d] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/Solver.cs:89 
+  at GUICalculator.ViewController.equals (AppKit.NSButton sender) [0x00001] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/ViewController.cs:68 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:120 
+  at GUICalculator.MainClass.Main (System.String[] args) [0x00007] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/Main.cs:10 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at GUICalculator.Solver.Solve () [0x0024d] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/Solver.cs:89 
+  at GUICalculator.ViewController.equals (AppKit.NSButton sender) [0x00001] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/ViewController.cs:68 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:120 
+  at GUICalculator.MainClass.Main (System.String[] args) [0x00007] in /Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/Main.cs:10 

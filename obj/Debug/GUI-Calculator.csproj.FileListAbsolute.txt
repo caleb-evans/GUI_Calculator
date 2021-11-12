@@ -1,0 +1,16 @@
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/GUI-Calculator.csproj.AssemblyReference.cache
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/GUI-Calculator.csproj.CoreCompileInputs.cache
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/_ProcessedContentPath.items
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/bin/Debug/GUI-Calculator.exe
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/bin/Debug/GUI-Calculator.pdb
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/GUI-Calculator.exe
+/Users/calebevans/Projects/GUI-Calculator/GUI-Calculator/obj/Debug/GUI-Calculator.pdb
